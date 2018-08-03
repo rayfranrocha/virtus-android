@@ -1,3 +1,5 @@
 # virtus-android
 
-Sistema de Gestão Financeira
+Sistema de Gestão Financeira para Instituições Religiosas
+
+teste
